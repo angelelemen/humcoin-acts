@@ -1,0 +1,16 @@
+C:\Users\PC\OneDrive\Documents\angel\bmi_calculator\bin\Debug\net8.0-windows\bmi_calculator.exe
+C:\Users\PC\OneDrive\Documents\angel\bmi_calculator\bin\Debug\net8.0-windows\bmi_calculator.deps.json
+C:\Users\PC\OneDrive\Documents\angel\bmi_calculator\bin\Debug\net8.0-windows\bmi_calculator.runtimeconfig.json
+C:\Users\PC\OneDrive\Documents\angel\bmi_calculator\bin\Debug\net8.0-windows\bmi_calculator.dll
+C:\Users\PC\OneDrive\Documents\angel\bmi_calculator\bin\Debug\net8.0-windows\bmi_calculator.pdb
+C:\Users\PC\OneDrive\Documents\angel\bmi_calculator\obj\Debug\net8.0-windows\bmi_calculator.Form1.resources
+C:\Users\PC\OneDrive\Documents\angel\bmi_calculator\obj\Debug\net8.0-windows\bmi_calculator.vbproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Documents\angel\bmi_calculator\obj\Debug\net8.0-windows\bmi_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Documents\angel\bmi_calculator\obj\Debug\net8.0-windows\bmi_calculator.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Documents\angel\bmi_calculator\obj\Debug\net8.0-windows\bmi_calculator.AssemblyInfo.vb
+C:\Users\PC\OneDrive\Documents\angel\bmi_calculator\obj\Debug\net8.0-windows\bmi_calculator.vbproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documents\angel\bmi_calculator\obj\Debug\net8.0-windows\bmi_calculator.dll
+C:\Users\PC\OneDrive\Documents\angel\bmi_calculator\obj\Debug\net8.0-windows\refint\bmi_calculator.dll
+C:\Users\PC\OneDrive\Documents\angel\bmi_calculator\obj\Debug\net8.0-windows\bmi_calculator.pdb
+C:\Users\PC\OneDrive\Documents\angel\bmi_calculator\obj\Debug\net8.0-windows\bmi_calculator.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Documents\angel\bmi_calculator\obj\Debug\net8.0-windows\ref\bmi_calculator.dll
