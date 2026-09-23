@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "semiFinal-humcoin-elemen/1.0.0": {
+        "runtime": {
+          "semiFinal-humcoin-elemen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "semiFinal-humcoin-elemen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

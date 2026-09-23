@@ -1,0 +1,32 @@
+C:\Users\PC\OneDrive\Documents\angel\semiFinal-humcoin-elemen\bin\Debug\net8.0-windows\semiFinal-humcoin-elemen.exe
+C:\Users\PC\OneDrive\Documents\angel\semiFinal-humcoin-elemen\bin\Debug\net8.0-windows\semiFinal-humcoin-elemen.deps.json
+C:\Users\PC\OneDrive\Documents\angel\semiFinal-humcoin-elemen\bin\Debug\net8.0-windows\semiFinal-humcoin-elemen.runtimeconfig.json
+C:\Users\PC\OneDrive\Documents\angel\semiFinal-humcoin-elemen\bin\Debug\net8.0-windows\semiFinal-humcoin-elemen.dll
+C:\Users\PC\OneDrive\Documents\angel\semiFinal-humcoin-elemen\bin\Debug\net8.0-windows\semiFinal-humcoin-elemen.pdb
+C:\Users\PC\OneDrive\Documents\angel\semiFinal-humcoin-elemen\obj\Debug\net8.0-windows\semiFinal_humcoin_elemen.Form1.resources
+C:\Users\PC\OneDrive\Documents\angel\semiFinal-humcoin-elemen\obj\Debug\net8.0-windows\semiFinal-humcoin-elemen.vbproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Documents\angel\semiFinal-humcoin-elemen\obj\Debug\net8.0-windows\semiFinal-humcoin-elemen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Documents\angel\semiFinal-humcoin-elemen\obj\Debug\net8.0-windows\semiFinal-humcoin-elemen.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Documents\angel\semiFinal-humcoin-elemen\obj\Debug\net8.0-windows\semiFinal-humcoin-elemen.AssemblyInfo.vb
+C:\Users\PC\OneDrive\Documents\angel\semiFinal-humcoin-elemen\obj\Debug\net8.0-windows\semiFinal-humcoin-elemen.vbproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documents\angel\semiFinal-humcoin-elemen\obj\Debug\net8.0-windows\semiFinal-humcoin-elemen.dll
+C:\Users\PC\OneDrive\Documents\angel\semiFinal-humcoin-elemen\obj\Debug\net8.0-windows\refint\semiFinal-humcoin-elemen.dll
+C:\Users\PC\OneDrive\Documents\angel\semiFinal-humcoin-elemen\obj\Debug\net8.0-windows\semiFinal-humcoin-elemen.pdb
+C:\Users\PC\OneDrive\Documents\angel\semiFinal-humcoin-elemen\obj\Debug\net8.0-windows\semiFinal-humcoin-elemen.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Documents\angel\semiFinal-humcoin-elemen\obj\Debug\net8.0-windows\ref\semiFinal-humcoin-elemen.dll
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\semiFinal-humcoin-elemen\bin\Debug\net8.0-windows\semiFinal-humcoin-elemen.exe
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\semiFinal-humcoin-elemen\bin\Debug\net8.0-windows\semiFinal-humcoin-elemen.deps.json
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\semiFinal-humcoin-elemen\bin\Debug\net8.0-windows\semiFinal-humcoin-elemen.runtimeconfig.json
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\semiFinal-humcoin-elemen\bin\Debug\net8.0-windows\semiFinal-humcoin-elemen.dll
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\semiFinal-humcoin-elemen\bin\Debug\net8.0-windows\semiFinal-humcoin-elemen.pdb
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\semiFinal-humcoin-elemen\obj\Debug\net8.0-windows\semiFinal_humcoin_elemen.Form1.resources
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\semiFinal-humcoin-elemen\obj\Debug\net8.0-windows\semiFinal-humcoin-elemen.vbproj.GenerateResource.cache
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\semiFinal-humcoin-elemen\obj\Debug\net8.0-windows\semiFinal-humcoin-elemen.GeneratedMSBuildEditorConfig.editorconfig
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\semiFinal-humcoin-elemen\obj\Debug\net8.0-windows\semiFinal-humcoin-elemen.AssemblyInfoInputs.cache
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\semiFinal-humcoin-elemen\obj\Debug\net8.0-windows\semiFinal-humcoin-elemen.AssemblyInfo.vb
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\semiFinal-humcoin-elemen\obj\Debug\net8.0-windows\semiFinal-humcoin-elemen.vbproj.CoreCompileInputs.cache
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\semiFinal-humcoin-elemen\obj\Debug\net8.0-windows\semiFinal-humcoin-elemen.dll
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\semiFinal-humcoin-elemen\obj\Debug\net8.0-windows\refint\semiFinal-humcoin-elemen.dll
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\semiFinal-humcoin-elemen\obj\Debug\net8.0-windows\semiFinal-humcoin-elemen.pdb
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\semiFinal-humcoin-elemen\obj\Debug\net8.0-windows\semiFinal-humcoin-elemen.genruntimeconfig.cache
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\semiFinal-humcoin-elemen\obj\Debug\net8.0-windows\ref\semiFinal-humcoin-elemen.dll
