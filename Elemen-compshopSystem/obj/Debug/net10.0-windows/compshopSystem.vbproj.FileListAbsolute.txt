@@ -1,0 +1,17 @@
+C:\Users\angel\OneDrive\Desktop\MY CODES\compshopSystem\compshopSystem\obj\Debug\net10.0-windows\compshopSystem.Form1.resources
+C:\Users\angel\OneDrive\Desktop\MY CODES\compshopSystem\compshopSystem\obj\Debug\net10.0-windows\compshopSystem.Resources.resources
+C:\Users\angel\OneDrive\Desktop\MY CODES\compshopSystem\compshopSystem\obj\Debug\net10.0-windows\compshopSystem.vbproj.GenerateResource.cache
+C:\Users\angel\OneDrive\Desktop\MY CODES\compshopSystem\compshopSystem\obj\Debug\net10.0-windows\compshopSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Desktop\MY CODES\compshopSystem\compshopSystem\obj\Debug\net10.0-windows\compshopSystem.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Desktop\MY CODES\compshopSystem\compshopSystem\obj\Debug\net10.0-windows\compshopSystem.AssemblyInfo.vb
+C:\Users\angel\OneDrive\Desktop\MY CODES\compshopSystem\compshopSystem\obj\Debug\net10.0-windows\compshopSystem.vbproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\MY CODES\compshopSystem\compshopSystem\bin\Debug\net10.0-windows\compshopSystem.exe
+C:\Users\angel\OneDrive\Desktop\MY CODES\compshopSystem\compshopSystem\bin\Debug\net10.0-windows\compshopSystem.deps.json
+C:\Users\angel\OneDrive\Desktop\MY CODES\compshopSystem\compshopSystem\bin\Debug\net10.0-windows\compshopSystem.runtimeconfig.json
+C:\Users\angel\OneDrive\Desktop\MY CODES\compshopSystem\compshopSystem\bin\Debug\net10.0-windows\compshopSystem.dll
+C:\Users\angel\OneDrive\Desktop\MY CODES\compshopSystem\compshopSystem\bin\Debug\net10.0-windows\compshopSystem.pdb
+C:\Users\angel\OneDrive\Desktop\MY CODES\compshopSystem\compshopSystem\obj\Debug\net10.0-windows\compshopSystem.dll
+C:\Users\angel\OneDrive\Desktop\MY CODES\compshopSystem\compshopSystem\obj\Debug\net10.0-windows\refint\compshopSystem.dll
+C:\Users\angel\OneDrive\Desktop\MY CODES\compshopSystem\compshopSystem\obj\Debug\net10.0-windows\compshopSystem.pdb
+C:\Users\angel\OneDrive\Desktop\MY CODES\compshopSystem\compshopSystem\obj\Debug\net10.0-windows\compshopSystem.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Desktop\MY CODES\compshopSystem\compshopSystem\obj\Debug\net10.0-windows\ref\compshopSystem.dll

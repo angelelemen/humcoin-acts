@@ -1,0 +1,34 @@
+C:\Users\PC\Downloads\humcoin-comshop-main\humcoin-comshop-main\compshopSystem\compshopSystem\bin\Debug\net8.0-windows\compshopSystem.exe
+C:\Users\PC\Downloads\humcoin-comshop-main\humcoin-comshop-main\compshopSystem\compshopSystem\bin\Debug\net8.0-windows\compshopSystem.deps.json
+C:\Users\PC\Downloads\humcoin-comshop-main\humcoin-comshop-main\compshopSystem\compshopSystem\bin\Debug\net8.0-windows\compshopSystem.runtimeconfig.json
+C:\Users\PC\Downloads\humcoin-comshop-main\humcoin-comshop-main\compshopSystem\compshopSystem\bin\Debug\net8.0-windows\compshopSystem.dll
+C:\Users\PC\Downloads\humcoin-comshop-main\humcoin-comshop-main\compshopSystem\compshopSystem\bin\Debug\net8.0-windows\compshopSystem.pdb
+C:\Users\PC\Downloads\humcoin-comshop-main\humcoin-comshop-main\compshopSystem\compshopSystem\obj\Debug\net8.0-windows\compshopSystem.Form1.resources
+C:\Users\PC\Downloads\humcoin-comshop-main\humcoin-comshop-main\compshopSystem\compshopSystem\obj\Debug\net8.0-windows\compshopSystem.Resources.resources
+C:\Users\PC\Downloads\humcoin-comshop-main\humcoin-comshop-main\compshopSystem\compshopSystem\obj\Debug\net8.0-windows\compshopSystem.vbproj.GenerateResource.cache
+C:\Users\PC\Downloads\humcoin-comshop-main\humcoin-comshop-main\compshopSystem\compshopSystem\obj\Debug\net8.0-windows\compshopSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\humcoin-comshop-main\humcoin-comshop-main\compshopSystem\compshopSystem\obj\Debug\net8.0-windows\compshopSystem.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\humcoin-comshop-main\humcoin-comshop-main\compshopSystem\compshopSystem\obj\Debug\net8.0-windows\compshopSystem.AssemblyInfo.vb
+C:\Users\PC\Downloads\humcoin-comshop-main\humcoin-comshop-main\compshopSystem\compshopSystem\obj\Debug\net8.0-windows\compshopSystem.vbproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\humcoin-comshop-main\humcoin-comshop-main\compshopSystem\compshopSystem\obj\Debug\net8.0-windows\compshopSystem.dll
+C:\Users\PC\Downloads\humcoin-comshop-main\humcoin-comshop-main\compshopSystem\compshopSystem\obj\Debug\net8.0-windows\refint\compshopSystem.dll
+C:\Users\PC\Downloads\humcoin-comshop-main\humcoin-comshop-main\compshopSystem\compshopSystem\obj\Debug\net8.0-windows\compshopSystem.pdb
+C:\Users\PC\Downloads\humcoin-comshop-main\humcoin-comshop-main\compshopSystem\compshopSystem\obj\Debug\net8.0-windows\compshopSystem.genruntimeconfig.cache
+C:\Users\PC\Downloads\humcoin-comshop-main\humcoin-comshop-main\compshopSystem\compshopSystem\obj\Debug\net8.0-windows\ref\compshopSystem.dll
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\Elemen-PreFinal\Elemen-compshopSystem\bin\Debug\net8.0-windows\compshopSystem.exe
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\Elemen-PreFinal\Elemen-compshopSystem\bin\Debug\net8.0-windows\compshopSystem.deps.json
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\Elemen-PreFinal\Elemen-compshopSystem\bin\Debug\net8.0-windows\compshopSystem.runtimeconfig.json
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\Elemen-PreFinal\Elemen-compshopSystem\bin\Debug\net8.0-windows\compshopSystem.dll
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\Elemen-PreFinal\Elemen-compshopSystem\bin\Debug\net8.0-windows\compshopSystem.pdb
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\Elemen-PreFinal\Elemen-compshopSystem\obj\Debug\net8.0-windows\compshopSystem.Form1.resources
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\Elemen-PreFinal\Elemen-compshopSystem\obj\Debug\net8.0-windows\compshopSystem.Resources.resources
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\Elemen-PreFinal\Elemen-compshopSystem\obj\Debug\net8.0-windows\compshopSystem.vbproj.GenerateResource.cache
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\Elemen-PreFinal\Elemen-compshopSystem\obj\Debug\net8.0-windows\compshopSystem.GeneratedMSBuildEditorConfig.editorconfig
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\Elemen-PreFinal\Elemen-compshopSystem\obj\Debug\net8.0-windows\compshopSystem.AssemblyInfoInputs.cache
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\Elemen-PreFinal\Elemen-compshopSystem\obj\Debug\net8.0-windows\compshopSystem.AssemblyInfo.vb
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\Elemen-PreFinal\Elemen-compshopSystem\obj\Debug\net8.0-windows\compshopSystem.vbproj.CoreCompileInputs.cache
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\Elemen-PreFinal\Elemen-compshopSystem\obj\Debug\net8.0-windows\compshopSystem.dll
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\Elemen-PreFinal\Elemen-compshopSystem\obj\Debug\net8.0-windows\refint\compshopSystem.dll
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\Elemen-PreFinal\Elemen-compshopSystem\obj\Debug\net8.0-windows\compshopSystem.pdb
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\Elemen-PreFinal\Elemen-compshopSystem\obj\Debug\net8.0-windows\compshopSystem.genruntimeconfig.cache
+\\pc1\Users\Guest\HUMCOIN(26-27)\Elemen, Angel Rose C\Elemen-PreFinal\Elemen-compshopSystem\obj\Debug\net8.0-windows\ref\compshopSystem.dll
